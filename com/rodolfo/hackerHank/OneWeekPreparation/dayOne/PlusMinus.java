@@ -1,4 +1,4 @@
-package com.rodolfo.hackerHank.OneWeekPreparation;
+package com.rodolfo.hackerHank.OneWeekPreparation.dayOne;
 
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
